@@ -1,0 +1,21 @@
+{
+  "name": "bower_demo",
+  "authors": [
+    "Abidur Rahman <a_rah24@hotmail.co.uk>"
+  ],
+  "description": "bower demo app",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/static/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
